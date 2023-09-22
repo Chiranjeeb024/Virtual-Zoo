@@ -6,7 +6,7 @@ public class material : MonoBehaviour
 {
     public Material material1; // Drag your first material here in the Unity Inspector
     public Material material2; // Drag your second material here in the Unity Inspector
-    public float swapInterval = 1.0f; // Time interval between material swaps
+    public float swapInterval = 2.0f; // Time interval between material swaps
 
     private Renderer rend;
     private bool isMaterial1Active = true;
