@@ -4,7 +4,19 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Entrance.unity
+    guid: fd045e17ca8a0804aa4be662ddce19dd
+  - enabled: 1
+    path: Assets/Scenes/ZOO1.unity
+    guid: 252cdd1df1fd7764695f45b8a078e114
+  - enabled: 1
+    path: Assets/VRCinemaforMobile/Scenes/Example_Projector.unity
+    guid: b017c82205276f64eafa6071febdfc5d
+  - enabled: 1
+    path: Assets/GrassFlowers/Demo/DemoGrassFlowers.unity
+    guid: 679e28dd92e786342b7944447228f70c
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 45d70e3d8d26ccd4199a7f90987ecf90, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 618161444b879e84da527d8ae415cd2b, type: 2}
