@@ -49,7 +49,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 556797029e73b2347956b6579e77e05b, type: 3}
   m_Name: DepthOfField
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   enabled:
     overrideState: 1
     value: 1
@@ -229,10 +229,10 @@ MonoBehaviour:
     value: 1
   temperature:
     overrideState: 1
-    value: 43.6
+    value: 4.9
   tint:
     overrideState: 1
-    value: 21.7
+    value: 33.6
   colorFilter:
     overrideState: 1
     value: {r: 1, g: 1, b: 1, a: 1}
